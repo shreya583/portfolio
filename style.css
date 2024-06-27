@@ -471,3 +471,24 @@ header nav .search i {
   gap: 10px;
   margin-top: 7.5vh;
 }
+.form-text {
+  margin-top: .25rem;
+  font-size: .875em;
+  color: #6c757d
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6C7176;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  appearance: none;
+  border-radius: 0px;
+  transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out
+}
